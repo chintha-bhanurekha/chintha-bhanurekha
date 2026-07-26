@@ -233,41 +233,6 @@ https://foodexpress-uokd.onrender.com
 
 ---
 
-## 🌍 Travel Tourism Management System
-
-A Java web application for browsing travel packages and managing bookings.
-
-### Features
-
-- 🧳 Browse Tour Packages
-- 📅 Book Trips
-- 👤 User Login
-- 📖 Booking History
-- 💾 Database Integration
-
-### Tech Stack
-
-Java • JSP • Servlets • JDBC • MySQL • HTML • CSS
-
----
-
-## 🎓 Student Management System
-
-A console-based Java application for managing student records.
-
-### Features
-
-- Add Student
-- Update Student
-- Delete Student
-- Search Student
-- Display Records
-
-### Tech Stack
-
-Core Java • OOP • Collections
-
----
 
 # 🏆 Achievements
 
@@ -304,4 +269,86 @@ Core Java • OOP • Collections
 ✅ Internship Opportunities
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========================= -->
+<!--      CONNECT WITH ME      -->
+<!-- ========================= -->
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:bhanu008084@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhanurekha-chintha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chintha-bhanurekha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+> "Code. Learn. Build. Repeat."
+
+</p>
+
+---
+
+# 🌟 Fun Fact
+
+💙 I enjoy solving Java problems, learning new technologies, and building real-world applications that improve everyday life.
+
+---
+
+# 💖 Thanks for Visiting!
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chintha-bhanurekha&label=Visitors&color=blueviolet&style=flat-square"/>
+</p>
 
