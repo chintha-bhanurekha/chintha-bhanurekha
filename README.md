@@ -171,3 +171,137 @@ Java Full Stack Developer | B.Tech CSE Graduate | Passionate Java Learner 🚀
 
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========================= -->
+<!--    FEATURED PROJECTS      -->
+<!-- ========================= -->
+
+# 🚀 Featured Projects
+
+## 🍔 FoodExpress – Online Food Delivery Application
+
+A full-stack food ordering web application built using Java technologies following the MVC architecture.
+
+### ✨ Features
+
+- 👤 User Registration & Login
+- 🍽️ Restaurant & Menu Management
+- 🛒 Shopping Cart
+- 💳 Checkout & Order Placement
+- 📦 Order History
+- 🔐 Session Management
+- 👨‍💼 Admin Dashboard
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-orange?style=flat-square)
+![Servlet](https://img.shields.io/badge/Servlet-green?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-blue?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🔗 **GitHub Repository**
+
+https://github.com/chintha-bhanurekha/FoodExpress
+
+🌐 **Live Demo**
+
+https://foodexpress-uokd.onrender.com
+
+---
+
+## 🌍 Travel Tourism Management System
+
+A Java web application for browsing travel packages and managing bookings.
+
+### Features
+
+- 🧳 Browse Tour Packages
+- 📅 Book Trips
+- 👤 User Login
+- 📖 Booking History
+- 💾 Database Integration
+
+### Tech Stack
+
+Java • JSP • Servlets • JDBC • MySQL • HTML • CSS
+
+---
+
+## 🎓 Student Management System
+
+A console-based Java application for managing student records.
+
+### Features
+
+- Add Student
+- Update Student
+- Delete Student
+- Search Student
+- Display Records
+
+### Tech Stack
+
+Core Java • OOP • Collections
+
+---
+
+# 🏆 Achievements
+
+🥈 NPTEL Cloud Computing – Silver Medal (77%)
+
+🏅 Successfully developed & deployed FoodExpress on Render Cloud
+
+💻 Java Full Stack Developer Intern at TAP Academy
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Hibernate
+- REST APIs
+- React
+- Advanced SQL
+- Data Structures & Algorithms
+- LeetCode Problem Solving
+
+---
+
+# 🤝 Open To Collaborate
+
+✅ Java Projects
+
+✅ Full Stack Web Applications
+
+✅ Open Source Contributions
+
+✅ Beginner-Friendly Projects
+
+✅ Internship Opportunities
+
+---
+
