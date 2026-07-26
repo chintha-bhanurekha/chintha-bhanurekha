@@ -142,7 +142,6 @@ Java Full Stack Developer | B.Tech CSE Graduate | Passionate Java Learner 🚀
 
 </p>
 
----
 
 # 🔥 GitHub Streak
 
@@ -152,7 +151,7 @@ Java Full Stack Developer | B.Tech CSE Graduate | Passionate Java Learner 🚀
 
 </p>
 
----
+
 
 # 📈 Activity Graph
 
@@ -162,7 +161,7 @@ Java Full Stack Developer | B.Tech CSE Graduate | Passionate Java Learner 🚀
 
 </p>
 
----
+
 
 # 👀 Profile Views
 
@@ -172,4 +171,3 @@ Java Full Stack Developer | B.Tech CSE Graduate | Passionate Java Learner 🚀
 
 </p>
 
----
